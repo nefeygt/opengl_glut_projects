@@ -1,1 +1,21 @@
-﻿  HW2.vcxproj -> C:\Users\nefey\source\repos\CTIS164 Homeworks\HW2\Debug\HW2.exe
+﻿  YIGIT_NazimEfe.cpp
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(96,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(99,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(100,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(122,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(125,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(314,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(355,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(356,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(357,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(413,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(414,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(415,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(506,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(506,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(507,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(507,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(508,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\HW2\YIGIT_NazimEfe.cpp(508,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LINK : C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\Debug\HW2.exe not found or not built by the last incremental link; performing full link
+  HW2.vcxproj -> C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW2 - Space Shooter\Debug\HW2.exe

@@ -1,1 +1,22 @@
-﻿  HW3.vcxproj -> C:\Users\nefey\source\repos\CTIS164 Homeworks\HW3\Debug\HW3.exe
+﻿  vec.cpp
+  YIGIT_NazimEfe.cpp
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(113,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(131,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(140,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(149,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(149,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(153,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(153,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(153,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(158,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(205,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(205,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(206,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(206,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(214,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(214,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(215,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\HW3\YIGIT_NazimEfe.cpp(215,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  LINK : C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\Debug\HW3.exe not found or not built by the last incremental link; performing full link
+  HW3.vcxproj -> C:\Users\nefey\Desktop\glutt\opengl_glut_projects\HW3 - Following Projectile\Debug\HW3.exe
