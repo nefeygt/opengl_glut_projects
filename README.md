@@ -1,6 +1,6 @@
-These are the projects that I made for my CTIS 164 Technical Mathematics with Programming course.
-You have to install FreeGlut in order to run the programs.
-All of the code is written in C language even though the file extensions are ".cpp".
+These are the projects that I made for my CTIS 164 Technical Mathematics with Programming course.__
+You have to install FreeGlut in order to run the programs.__
+All of the code is written in C language even though the file extensions are ".cpp".__
 
 ### Project 1 - Space View:
 Pressing space pauses the UFO movement.
